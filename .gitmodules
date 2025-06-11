@@ -1,0 +1,6 @@
+[submodule "OneDrive/Desktop/NODEJS_AUTH/OneDrive/Desktop/NODEJS_AUTH/nodejs"]
+	path = OneDrive/Desktop/NODEJS_AUTH/OneDrive/Desktop/NODEJS_AUTH/nodejs
+	url = https://github.com/ngaharon/nodejs.git
+[submodule "mcpserver/mcpserver/Chungharon"]
+	path = mcpserver/mcpserver/Chungharon
+	url = https://github.com/Chungharon/Chungharon.git
