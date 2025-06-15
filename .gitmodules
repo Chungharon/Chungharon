@@ -4,3 +4,6 @@
 [submodule "mcpserver/mcpserver/Chungharon"]
 	path = mcpserver/mcpserver/Chungharon
 	url = https://github.com/Chungharon/Chungharon.git
+[submodule "demo_app/demo_app/futterhaundry"]
+	path = demo_app/demo_app/futterhaundry
+	url = https://github.com/Chungharon/futterhaundry.git
